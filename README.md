@@ -2,7 +2,7 @@
 
 Looking forward to getting to know you and hopefully working together!
 
-_In a project I care more about the people I’m working with and the work itself rather than about my role._
+In a project I care more about the people I’m working with and the work itself rather than about my role.
 
 I work as ...  
 > :art: an artist,  
@@ -10,10 +10,6 @@ I work as ...
 :computer: a developer,  
 :busts_in_silhouette: a collaborator and    
 :tada: motivator.
-
-
-
-I’m always interested in new ways to collaborate so don’t hesitate to [contact me](mailto:felix@felixbuchholz.com)!
 
 ### Topics I’ve worked on:
 
@@ -24,4 +20,4 @@ I’m always interested in new ways to collaborate so don’t hesitate to [conta
 - Refugee Rights in Europe
 - Gentrification in Belgrade
 
-I’m always excited to work on similarly minded projects.
+I’m always excited to work on similarly minded projects so don’t hesitate to [contact me](mailto:felix@felixbuchholz.com)!
