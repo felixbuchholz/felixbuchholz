@@ -16,8 +16,8 @@ I work as ...
 - Material Inequality and (innovative) ideas to alleviate it
 - Transparency in finance and how to improve it
 - Mass incarceration in the U.S. and criminal justice reform
-- Fair pay for artists
-- Refugee Rights in Europe
+- Fair wages for artists
+- Refugee rights in Europe
 - Gentrification in Belgrade
 
 I’m always excited to work on similarly minded projects so don’t hesitate to [contact me](mailto:felix@felixbuchholz.com)!
